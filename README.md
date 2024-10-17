@@ -16,7 +16,6 @@ This module manages an Azure Static Web App using the [azurerm](https://registry
 
 ## Modules
 
-- [Azure Region Terraform Module](https://dev.azure.com/JasperEnginesTransmissions/JETDEV/_git/TerraformModule_AzureRegions)
 - [Azure Key Vault Secret](..\key_vault_secret\examples\standard\README.md)
 
 ## Usage
@@ -48,7 +47,7 @@ module "static_web_app" {
 
 For more detailed instructions on using this module, please refer to the appropriate example:
 
-- [Default Example](examples\default\README.md)
+- [Default Example](examples/default/README.md)
 
 ## Inputs
 
